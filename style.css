@@ -1,0 +1,64 @@
+/* 
+body{}
+header{}
+main{}
+
+
+*/
+
+body{
+    background-color: rgb(8, 6, 41);
+    color: rgb(255, 255, 255);
+    margin: 0;
+    text-align: center;
+}
+header{
+    background-color: black;
+    padding: 10px;
+
+
+}
+
+
+h1,h2,h3,figure{
+    margin: 0px;
+}
+   
+
+div{
+    background-color:rgba(9, 9, 14, 0.616) ;
+    margin: 70px;
+    
+}
+h2{
+    margin: 10px;
+}
+img{
+    width: 100px;
+}
+button{
+    width: 100%;
+    border: 0cm;
+    padding: 10px;
+    margin-top: 5px;
+    background-color: rgb(8, 6, 41);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    
+}
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(8, 6, 41);
+}
+header figure img{
+    width: 50px;
+}
+main button img{
+    text-align: left;
+    width: 30px;
+width: 2%
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+} 
